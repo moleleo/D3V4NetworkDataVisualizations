@@ -1,0 +1,60 @@
+p.select {
+  font:12px sans-serif;
+  font-weight: bold;
+}
+
+option.select,
+select {
+  font:11px sans-serif;
+}
+
+.background {
+  fill: #eee;
+}
+
+line {
+  stroke: #fff;
+}
+
+text.active {
+  font-weight: bold;
+  fill: red;
+}
+
+.column,
+.row {
+  font:10px sans-serif; 
+}
+
+.legend {
+  font:11px sans-serif;
+  font-weight: bold;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+.cell {
+  fill: none;
+  stroke: grey;
+}
+
+.center {
+  margin: auto;
+  width: 75%;
+  font:14px sans-serif;
+  //border: 3px solid #73AD21;
+  padding: 50px;
+}
+
+h4 { 
+/*  margin:0;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0; */
+  font:10px sans-serif; 
+//  min-width: 600px;
+}
